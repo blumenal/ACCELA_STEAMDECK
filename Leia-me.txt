@@ -1,0 +1,12 @@
+
+# Comandos para instalar corretamente o ACCELA no Steam OS
+
+chmod +x ACCELAINSTALL
+chmod +x install_dotnet9
+
+./ACCELAINSTALL
+
+dotnet --list-runtimes
+
+./install_dotnet9
+
