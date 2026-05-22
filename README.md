@@ -22,6 +22,9 @@ Nenhuma alteração funcional no código — apenas preservação e alteração 
 ## Créditos
 Todo o crédito do projeto original pertence aos desenvolvedores e ao repositório de distribuição pertecente ao ciscosweater. Nenhuma modificação lógica foi feita no código.
 
+## Instalação do SLSsteam
+https://github.com/Deadboy666/h3adcr-b
+
 ## 🇺🇸 English
 # ACCELA - Backup Repository (Stable Source Code)
 ## Notice: This repository is intended solely as a backup of stable versions of the original project ciscosweater/enter-the-wired. It is not an active development fork, but rather a preservation point for code integrity.
@@ -45,6 +48,9 @@ No functional changes to the code — only preservation and version identifier c
 
 ## Credits
 All credit for the original project belongs to the developers and the distribution repository belonging to ciscosweater. No logical modifications were made to the code.
+
+## Installation of SLSsteam
+https://github.com/Deadboy666/h3adcr-b
 
 ## 🇪🇸 Español
 # ACCELA - Repositorio de Respaldo (Código Fuente Estable)
@@ -70,3 +76,5 @@ Ningún cambio funcional en el código — solo preservación y cambio del ident
 ## Créditos
 Todo el crédito del proyecto original pertenece a los desarrolladores y al repositorio de distribución perteneciente a ciscosweater. No se realizaron modificaciones lógicas en el código.
 
+## Instalación de SLSsteam
+https://github.com/Deadboy666/h3adcr-b
