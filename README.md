@@ -44,32 +44,29 @@ Unlike the most recent official version (e.g., 20260512222534), which distribute
 No functional changes to the code — only preservation and version identifier change.
 
 ## Credits
-All credit for the original project goes to ciscosweater. No logical modifications were made to the code.
+All credit for the original project belongs to the developers and the distribution repository belonging to ciscosweater. No logical modifications were made to the code.
 
-🇪🇸 Español
-ACCELA - Repositorio de Respaldo (Código Fuente Estable)
-Aviso: Este repositorio es solo un respaldo de las versiones estables del proyecto original ciscosweater/enter-the-wired. No es un fork activo para desarrollo, sino un punto de preservación de la integridad del código.
+## 🇪🇸 Español
+# ACCELA - Repositorio de Respaldo (Código Fuente Estable)
+## Aviso: Este repositorio es solo un respaldo de las versiones estables del proyecto original ciscosweater/enter-the-wired. No es un fork activo para desarrollo, sino un punto de preservación de la integridad del código.
 
-Propósito
+## Propósito
 Mantener la integridad del código fuente original de versiones estables.
 
 Servir como contingencia en caso de que el software original sea descontinuado o tenga problemas de compatibilidad.
 
 Garantizar que el sistema se pueda ejecutar incluso después de cambios en el formato de distribución oficial.
 
-Diferenciación de versión
+## Diferenciación de versión
 El número de versión en este repositorio ha sido modificado para indicar claramente que el código no fue obtenido directamente del repositorio oficial, sino de este respaldo. Ejemplo: 20260521220000-respaldo.
 
-Sobre los formatos disponibles
+## Sobre los formatos disponibles
 A diferencia de la versión oficial más reciente (ej: 20260512222534), que distribuye el programa solo en formato AppImage, aquí están disponibles: código fuente en Python, ejecutable .AppImage y ejecutable .exe para Windows.
 
-Estructura mantenida
-Carpeta src/ con el código fuente original
-
-run.sh y requirements.txt
+## Estructura mantenida
 
 Ningún cambio funcional en el código — solo preservación y cambio del identificador de versión.
 
-Créditos
-Todo el crédito del proyecto original pertenece a ciscosweater. No se realizaron modificaciones lógicas en el código.
+## Créditos
+Todo el crédito del proyecto original pertenece a los desarrolladores y al repositorio de distribución perteneciente a ciscosweater. No se realizaron modificaciones lógicas en el código.
 
