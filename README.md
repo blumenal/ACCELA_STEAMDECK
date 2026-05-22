@@ -20,7 +20,7 @@ Diferente da versão oficial mais recente (ex: 20260512222534), que distribui o 
 Nenhuma alteração funcional no código — apenas preservação e alteração do identificador de versão.
 
 ## Créditos
-Todo o crédito do projeto original pertence a ciscosweater. Nenhuma modificação lógica foi feita no código.
+Todo o crédito do projeto original pertence aos desenvolvedores e ao repositório de distribuição pertecente ao ciscosweater. Nenhuma modificação lógica foi feita no código.
 
 ## 🇺🇸 English
 # ACCELA - Backup Repository (Stable Source Code)
