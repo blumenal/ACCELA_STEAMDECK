@@ -1,8 +1,8 @@
-### Português (Brasil)
+## Português (Brasil)
 # ACCELA - Repositório de Backup (Código Fonte Estável)
-Aviso: Este repositório é apenas um backup das versões estáveis do projeto original ciscosweater/enter-the-wired. Ele não é um fork ativo para desenvolvimento, mas sim um ponto de preservação de integridade do código.
+### Aviso: Este repositório é apenas um backup das versões estáveis do projeto original ciscosweater/enter-the-wired. Ele não é um fork ativo para desenvolvimento, mas sim um ponto de preservação de integridade do código.
 
-Propósito
+### Propósito
 Manter a integridade do código fonte original de versões estáveis.
 
 Servir como contingência caso o software original seja descontinuado ou sofra problemas de compatibilidade.
